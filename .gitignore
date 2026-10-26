@@ -1,0 +1,63 @@
+# ─── LaTeX build files ───────────────────────────────
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.synctex(busy)
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+*.nav
+*.snm
+*.vrb
+*.xdv
+*.dvi
+*.ps
+*.idx
+*.ilg
+*.ind
+*.glo
+*.gls
+*.glg
+*.acn
+*.acr
+*.alg
+*.ist
+*.fmt
+*.thm
+*.tdo
+*.lol
+*.pyg
+*.auxlock
+*.figlist
+*.makefile
+*.pdfsync
+*-blx.bib
+_minted*/
+auto/
+
+# ─── PDF output ──────────────────────────────────────
+# Bỏ dấu # ở dòng dưới nếu KHÔNG muốn đưa file PDF lên GitHub
+# *.pdf
+
+# ─── Thông tin cá nhân (bỏ dấu # nếu repo để public) ──
+# assets/avt.jpg
+# assets/*.jpg
+# assets/*.png
+
+# ─── Editor / OS ─────────────────────────────────────
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.swp
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
