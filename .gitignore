@@ -41,6 +41,7 @@
 *-blx.bib
 _minted*/
 auto/
+*.pdf
 
 # ─── PDF output ──────────────────────────────────────
 # Bỏ dấu # ở dòng dưới nếu KHÔNG muốn đưa file PDF lên GitHub
